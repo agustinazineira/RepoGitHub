@@ -1,0 +1,67 @@
+.texto {
+  background-color: linen;
+}
+
+.texto h2 {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.texto p {
+  font-size: 24px;
+  padding: 10px;
+}
+
+.letraNav {
+  color: goldenrod !important;
+  font-size: 26px !important;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  -webkit-animation-name: efecto;
+          animation-name: efecto;
+  -webkit-animation-iteration-count: inherit;
+          animation-iteration-count: inherit;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+@-webkit-keyframes efecto {
+  0% {
+    -webkit-transform: translateX(-50px);
+            transform: translateX(-50px);
+  }
+  100% {
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+}
+
+@keyframes efecto {
+  0% {
+    -webkit-transform: translateX(-50px);
+            transform: translateX(-50px);
+  }
+  100% {
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+}
+
+.imgHab {
+  margin-top: 10px;
+}
+
+.imgHab:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.pie {
+  background-color: goldenrod;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */

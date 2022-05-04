@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,MAAM,CAAA;EAEF,gBAAgB,EDFP,KAAK;CCWjB;;AAXD,AAGI,MAHE,CAGF,EAAE,CAAA;EACE,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,IAAI;CAChB;;AANL,AAOI,MAPE,CAOF,CAAC,CAAA;EACG,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,IAAI;CAChB;;ACVL,AAAA,SAAS,CAAA;EACL,KAAK,EFEA,SAAS,CEFC,UAAU;EACzB,SAAS,EAAE,eAAe;CAC7B;;ACHD,AAAA,KAAK,CAAA;EACD,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,IAAI;EACnB,cAAc,EAAE,MAAM;EACtB,yBAAyB,EAAE,OAAO;EAClC,kBAAkB,EAAE,EAAE;CAUzB;;AARG,UAAU,CAAV,MAAU;EACN,EAAE;IACE,SAAS,EAAE,iBAAiB;;EAEhC,IAAI;IACA,SAAS,EAAE,eAAe;;;;ACbtC,AAAA,OAAO,CAAA;EACH,UAAU,EAAE,IAAI;CAKnB;;AAND,AAGI,OAHG,AAGF,MAAM,CAAA;EACH,SAAS,EAAE,UAAU;CACxB;;ACLL,AAAA,IAAI,CAAA;EACA,gBAAgB,ELAN,SAAS;EKCnB,KAAK,ELAA,KAAK;CKCb",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/_variables.scss",
+        "../scss/_textos.scss",
+        "../scss/_nav.scss",
+        "../scss/_logo.scss",
+        "../scss/_imgHab.scss",
+        "../scss/_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
